@@ -77,7 +77,7 @@ export default {
 			height: 2px;
 			background-color: #00284f;
 			content: '';
-			top: 7px;
+			top: 6px;
 		}
 	}
 
