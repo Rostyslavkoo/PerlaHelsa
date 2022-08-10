@@ -1,6 +1,5 @@
-# perla-helsa
 
-## Project setup
+## perla-helsa setup
 ```
 npm install
 ```
